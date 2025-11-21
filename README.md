@@ -19,7 +19,28 @@
 ---
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
----
+
+```yaml
+name: Malamati Daniil
+located_in: Thessaloniki, Greece
+education:
+  [
+    "Master's in Data and Wed Science (ongoing)",
+    "Bachelor's in Computer Science",
+  ]
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Data Science",
+    "Machine Learning",
+    "UI/UX",
+  ]
+
+hobbies: ["Gaming", "Cinema", "Art", "Music", "Basketball"]
+```
+  
+---  
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
