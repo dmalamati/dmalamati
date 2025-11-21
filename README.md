@@ -5,7 +5,16 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C21E1E,100:6B54A9&text=Hi%20There!&fontSize=50&fontColor=FFFFFF&height=100&section=header"/>
 </p>
----  
+
+<h1 align="center">
+  I am Mlamati Daniil! Let's Connect!
+</h1>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/malamati-daniil-976272350">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+</p>
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
