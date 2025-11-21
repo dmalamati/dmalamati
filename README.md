@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">
-  I am Mlamati Daniil! Let's Connect!
+  I am Malamati Daniil! Let's Connect!
 </h1>
 
 <p align="center">
