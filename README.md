@@ -60,11 +60,12 @@ hobbies: ["Gaming", "Cinema", "Art", "Music", "Basketball"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C21E1E,100:6B54A9&height=100&section=footer"/>
+</p>
+
+
 <h2> 📊 GitHub Stats </h2>
 ![](https://github-readme-stats.vercel.app/api?username=dmalamati&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=dmalamati&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dmalamati&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C21E1E,100:6B54A9&height=100&section=footer"/>
-</p>
