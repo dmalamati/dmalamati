@@ -63,5 +63,3 @@ hobbies: ["Gaming", "Cinema", "Art", "Music", "Basketball"]
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C21E1E,100:6B54A9&height=100&section=footer"/>
 </p>
-
-![Snake animation](https://github.com/dmalamati/dmalamati/blob/output/github-contribution-grid-snake.svg)
