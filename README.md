@@ -31,6 +31,7 @@ education:
 
 fields_of_interests:
   [
+    "Software Development",
     "Web Development",
     "Data Science",
     "Machine Learning",
